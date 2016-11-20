@@ -1,2 +1,2 @@
 # ListOfUser
-Demo for study
+Demo for studing
